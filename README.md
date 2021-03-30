@@ -1,2 +1,0 @@
-# BootstrapPortfolio
-Responsive Portfolio Website
