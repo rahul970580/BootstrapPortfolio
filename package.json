@@ -1,0 +1,14 @@
+{
+  "name": "bootstrapportfolio",
+  "version": "1.0.0",
+  "description": "Responsive Bootstrap Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello/"
+  },
+  "author": "Rahul Gubbala",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
